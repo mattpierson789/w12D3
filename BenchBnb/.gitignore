@@ -20,6 +20,7 @@
 
 .byebug_history
 /public
+env.development.local
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
